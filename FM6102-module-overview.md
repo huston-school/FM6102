@@ -46,9 +46,9 @@ This module aims to explore the landscape of current innovations in digital medi
 
 ### Assessment
 
-- Assignment 1 (25%): defining play
+- Assignment 1 (25%): defining play  
   Due Friday 28 January by 5 pm
-- Assignment 2 (25%): everyday use
+- Assignment 2 (25%): everyday use  
   Due Friday 18 March by 5 pm
 - Assignment 3 (50%): module final project
   - Initial proposal due 18 February by 5 pm
