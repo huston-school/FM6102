@@ -3,7 +3,7 @@
 ## Module Details
 
 Lecturer: Dr. EL Putnam (she/her)  
-Class Time and Day: Semester 2, 1 to 3 pm Wednesday  and Practice Black (select weeks) 12 to
+Class Time and Day: Semester 2, 1 to 3 pm Wednesday
 Location: IT 303 / Virtual (as needed)  
 ECTS: 10
 
@@ -21,7 +21,7 @@ This module aims to explore the landscape of current innovations in digital medi
 
 ## Time allocation
 
-- 2 to 4 hours class time per week
+- 2 hours class time per week
 - 8 to 15 hours independent work per week
 
 ## Reading List
