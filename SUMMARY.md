@@ -1,5 +1,5 @@
 # Table of contents
 
-* [FM6102: Digital Play and Practice](README.md)
+* [Introduction](readMe.md)
+* [Module Overview](FM6102-module-overview.md)
 * [Weekly Calendar](FM6102-weeklyCalendar.md)
-* [Overview](readMe.md)
