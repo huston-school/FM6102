@@ -27,22 +27,22 @@ This module aims to explore the landscape of current innovations in digital medi
 ### Readings and Other Media
 
 ## Reading List
-Andersen, Christian Ulrik, and Søren Pold. *The Metainterface: The Art of Platforms, Cities, and Clouds.* The MIT Press, 2018.  
-Chion, Michel. *Audio-Vision: Sound on Screen.* Columbia University Press, 1994.  
-Du Sautoy, Marcus. *The Creativity Code: Art and Innovation in the Age of AI.* The Belknap Press of Harvard University Press, 2019.  
-LaBelle, Brandon. *Background Noise: Perspectives on Sound Art.* Second, Bloomsbury, 2015.  
-Kwastek, Katja. *Aesthetics of Interaction in Digital Art.* The MIT Press, 2013.  
-McQuire, Scott. *Geomedia: Networked Cities and the Future of Public Space.* Polity Press, 2017.  
-Mullaney, Thomas S., et al., editors. *Your Computer Is on Fire.* The MIT Press, 2021.  
-Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines Reinforce Racism.* New York University Press, 2018.
-Ngai, Sianne. *Our Aesthetic Categories: Zany, Cute, Interesting.* Harvard University Press, 2015.  
-O’Dwyer, Neill. *Digital Scenography: 30 Years of Experimentation and Innovation in Performance and Interactive Media.* Bloomsbury Methuen Drama, 2021.
-Parikka, Jussi. *A Geology of Media.* 1st edition, Univ Of Minnesota Press, 2015.  
-Pedersen, Isabel, editor. *Embodied Computing: Wearables, Implantables, Embeddables, Ingestibles.* The MIT Press, 2020.  
-Salter, Chris. *Entangled: Technology and the Transformation of Performance.* The MIT Press, 2010.  
-Steyerl, Hito. *Duty Free Art: Art in the Age of Planetary Civil War.* Verso, 2017.  
-Taylor, T. L. *Watch Me Play: Twitch and the Rise of Game Live Streaming.* Princeton University Press, 2018.
-Wark, McKenzie. *Sensoria: Thinkers for the Twenty-First Century.* Verso, 2020.  
+- Andersen, Christian Ulrik, and Søren Pold. *The Metainterface: The Art of Platforms, Cities, and Clouds.* The MIT Press, 2018.  
+- Chion, Michel. *Audio-Vision: Sound on Screen.* Columbia University Press, 1994.  
+- Du Sautoy, Marcus. *The Creativity Code: Art and Innovation in the Age of AI.* The Belknap Press of Harvard University Press, 2019.  
+- LaBelle, Brandon. *Background Noise: Perspectives on Sound Art.* Second, Bloomsbury, 2015.  
+- Kwastek, Katja. *Aesthetics of Interaction in Digital Art.* The MIT Press, 2013.  
+- McQuire, Scott. *Geomedia: Networked Cities and the Future of Public Space.* Polity Press, 2017.  
+- Mullaney, Thomas S., et al., editors. *Your Computer Is on Fire.* The MIT Press, 2021.  
+- Noble, Safiya Umoja. *Algorithms of Oppression: How Search Engines Reinforce Racism.* New York University Press, 2018.
+- Ngai, Sianne. *Our Aesthetic Categories: Zany, Cute, Interesting.* Harvard University Press, 2015.  
+- O’Dwyer, Neill. *Digital Scenography: 30 Years of Experimentation and Innovation in Performance and Interactive Media.* Bloomsbury Methuen Drama, 2021.
+- Parikka, Jussi. *A Geology of Media.* 1st edition, Univ Of Minnesota Press, 2015.  
+- Pedersen, Isabel, editor. *Embodied Computing: Wearables, Implantables, Embeddables, Ingestibles.* The MIT Press, 2020.  
+- Salter, Chris. *Entangled: Technology and the Transformation of Performance.* The MIT Press, 2010.  
+- Steyerl, Hito. *Duty Free Art: Art in the Age of Planetary Civil War.* Verso, 2017.  
+- Taylor, T. L. *Watch Me Play: Twitch and the Rise of Game Live Streaming.* Princeton University Press, 2018.
+- Wark, McKenzie. *Sensoria: Thinkers for the Twenty-First Century.* Verso, 2020.  
 
 ### Assessment
 
