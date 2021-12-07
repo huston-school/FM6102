@@ -3,7 +3,7 @@
 ## Module Details
 
 Lecturer: Dr. EL Putnam (she/her)  
-Class Time and Day: Semester 2, 1 to 3 pm Wednesday
+Class Time and Day: Semester 2, 1 to 3 pm Wednesday  
 Location: IT 303 / Virtual (as needed)  
 ECTS: 10
 
