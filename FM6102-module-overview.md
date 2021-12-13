@@ -53,3 +53,7 @@ Due Friday 18 March by 5 pm
     - Initial proposal due 18 February by 5 pm
     - In class presentations 30 March
     - Paper and project due Friday 29 April by 5 pm
+
+## Disclaimer
+
+Module syllabus and calendar are subject to change at any stage at the discretion of the instructor. Materials will be updated weekly throughout the semester, including this module outline as needed.
