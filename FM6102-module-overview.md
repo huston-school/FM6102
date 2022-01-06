@@ -28,6 +28,7 @@ This module aims to explore the landscape of current innovations in digital medi
 
 - Andersen, Christian Ulrik, and Søren Pold. *The Metainterface: The Art of Platforms, Cities, and Clouds.* The MIT Press, 2018.
 - Crawford, Kate. *Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence.* Yale University Press, 2021.
+- Dias, Marcos. *The Machinic City: Media, Performance and Participation.* Manchester University Press, 2021.
 - Du Sautoy, Marcus. *The Creativity Code: Art and Innovation in the Age of AI.* The Belknap Press of Harvard University Press, 2019.
 - Kwastek, Katja. *Aesthetics of Interaction in Digital Art.* The MIT Press, 2013.
 - McQuire, Scott. *Geomedia: Networked Cities and the Future of Public Space.* Polity Press, 2017.

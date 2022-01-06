@@ -84,6 +84,7 @@ Submit **proposal** for module final project to Blackboard by **18 February, 5 p
 - Eugenia Siapera, “Mobile Media and Everyday Life” from *Understanding New Media*
 - Scott McQuire, Introduction and Chapter 3 from *Geomedia: Networked Cities and the Future of Public Space*
 - Virginia Eubanks, “High-Tech Homelessness in the City of Angels” from *Automating Inequality*
+- Optional: Marcos Dias, *The Machinic City*
 - View Blast Theory, selection of videos about works [https://www.blasttheory.co.uk/our-work/#Featured](https://www.blasttheory.co.uk/our-work/#Featured)
 
 **Assignment 2:** Due Friday 11 March by 5 pm
