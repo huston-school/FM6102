@@ -1,6 +1,6 @@
 # Weekly Calendar
 
-Please read and review indicated materials prior to class session.
+Please read and review indicated materials prior to class session. Unless otherwise indicated, readings can be found in reading list section of Blackboard.
 
 ## Section 1: Play and Aesthetics [Weeks 1-3] defining play and aesthetics with digital technologies
 
@@ -12,9 +12,9 @@ Please read and review indicated materials prior to class session.
 
 #### **Readings**  
 
-- David Graeber, “What’s the Point If We Can’t Have Fun?,” https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun
+- David Graeber, “What’s the Point If We Can’t Have Fun?,” [https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
 - Katja Kwastek, “The Aesthetics of Play” (up to but not including “Performance and Performativity”) from *Aesthetics of Interaction in Digital Art*
-Optional: Eugenia Siapera, “Games and Gaming” from *Understanding New Media*
+- Optional: Eugenia Siapera, “Games and Gaming” from *Understanding New Media*
 
 ### Week 2: Aesthetics (19 January)
 
@@ -23,7 +23,7 @@ Optional: Eugenia Siapera, “Games and Gaming” from *Understanding New Media*
 - Sianne Ngai, pp. 1-14 from “Introduction,” *Our Aesthetic Categories: Zany, Cute, Interesting*,
 - Hito Steyerl, “A Sea of Data: Apophenia and Pattern (Mis-)Recognition,” from *Duty Free Art: Art in the Age of Planetary Civil War*
 - McKenzie Wark, “Yves Citton: Ecologies of Attention” from Sensoria
-- Watch: Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File* (2013): https://www.moma.org/collection/works/181784
+- Watch: Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File* (2013), [https://www.moma.org/collection/works/181784](https://www.moma.org/collection/works/181784)
 
 ### Week 3: Creativity (26 January)
 
@@ -38,7 +38,7 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 
 ---
 
-## Section 2: Materiality [Weeks 4-6]
+## Section 2: Materiality [Weeks 4 and 5]
 
 - Engage with the material aspects of digital technologies, including environmental and financial impact (blockchain and cryptocurrency)
 
@@ -46,65 +46,67 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 
 #### **Readings**
 
-- Jussi Parker: Geology of Media, Preface and Chapter 2, “An Alternative Deep Time of the Media,”
-- Kate Crawford: Introduction to Atlas of AI
+- Jussi Parker,  Preface and Chapter 2, “An Alternative Deep Time of the Media” from *Geology of Media*
+- Kate Crawford, Introduction to *Atlas of AI*
 
 ### Week 5: Blockchain and Cyrptocurrency (9 February)
 
 #### **Readings**
 
 - Adam Greenfield, Chapter 4 "Cryptocurrency The computational guarantee of value" and Chapter 5 "Blockchain beyond Bitcoin A trellis for posthuman institutions" from *Radical Technologies: The Design of Everyday Life* (London and New York: Verso, 2017).
-- Rachel O’Dwyer, “Limited Edition: Producing Artificial Scarcity for Digital Art on the Blockchain and Its Implications for the Cultural Industries,” *Convergence: The International Journal of Research into New Media Technologies* 26, no. 4 (August 2020): 874–94, https://doi.org/10.1177/1354856518795097.
-
-### Week 6: No class (16 February)
-
-Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
+- Rachel O’Dwyer, “Limited Edition: Producing Artificial Scarcity for Digital Art on the Blockchain and Its Implications for the Cultural Industries,” *Convergence: The International Journal of Research into New Media Technologies* 26, no. 4 (August 2020): 874–94, [https://doi.org/10.1177/1354856518795097](https://doi.org/10.1177/1354856518795097).
 
 ---
 
-## Section 3: Interaction and Mediation [Weeks 7-9]
+## Section 3: Interaction and Mediation [Weeks 6-8]
 
 - Review different outputs including performance, livestreaming,locative media
 - Practical workshops in OBS and Echoes (locative media sound app)
 
-### Week 7: Performance (23 February)
+### Week 6: Performance (16 February)
 
 #### **Readings**
 
 - Chris Salter, Introduction and Chapter 4 from *Entangled: Technology and the Transformation of Performance*
 - Neill O'Dwyer, Introduction to *Digital Scenography: 30 Years of Experimentation and Innovation in Performance and Interactive Media* 
-- Watch: Yara Travieso, *La Medea* (2017)
+- Watch: Yara Travieso, *La Medea* (2017), available through Blackboard
 
-### Week 8: Livestreaming (2 March)
+Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
 
-- T.L. Taylor, Chapter 3, “Home Studios: Transforming Private Play into Public Entertainment“ from Watch me Play: Twitch and the Rise of Game Live Streaming
-- Hunter, Lindsay Brandon. “Live Streaming and the Perils of Proximity.” International Journal of Performance Arts and Digital Media 15.3 (2019): 283-94.
-- Listen to The Digital Human, “Jennifer,” https://www.bbc.co.uk/programmes/b07z414z
+### Week 7: Livestreaming (23 February)
 
-### Week 9: Locative Media (9 March)
+- T.L. Taylor, Chapter 3, “Home Studios: Transforming Private Play into Public Entertainment“ from *Watch me Play: Twitch and the Rise of Game Live Streaming*
+- Hunter, Lindsay Brandon. “Live Streaming and the Perils of Proximity.” *International Journal of Performance Arts and Digital Media* 15.3 (2019): 283-94.
+- Listen to The Digital Human, “Jennifer,” [https://www.bbc.co.uk/programmes/b07z414z](https://www.bbc.co.uk/programmes/b07z414z)
 
-- Eugenia Siapera, “Mobile Media and Everyday Life” from Understanding New Media
-- Scott McQuire, Introduction and Chapter 3 from Geomedia: Networked Cities and the Future of Public Space
-- Virginia Eubanks, “High-Tech Homelessness in the City of Angels” from Automating Inequality
-- View Blast Theory, selection of videos about works: https://www.blasttheory.co.uk/our-work/#Featured
+### Week 8: Locative Media (2 March)
 
-### **Assignment 2:** Due Friday 18 March by 5 pm
+- Eugenia Siapera, “Mobile Media and Everyday Life” from *Understanding New Media*
+- Scott McQuire, Introduction and Chapter 3 from *Geomedia: Networked Cities and the Future of Public Space*
+- Virginia Eubanks, “High-Tech Homelessness in the City of Angels” from *Automating Inequality*
+- View Blast Theory, selection of videos about works [https://www.blasttheory.co.uk/our-work/#Featured](https://www.blasttheory.co.uk/our-work/#Featured)
+
+**Assignment 2:** Due Friday 11 March by 5 pm
 
 Take a digital object that you use on an everyday basis and develop a way to interact or perform with it differently. This may be presented as a speculative essay, performance to video, or working prototype. Include a short explaination of project, if necessary. No citations required.
 
 ---
 
-## Section 4: Ubiquity [Weeks 11-12]
+## Section 4: Ubiquity [Weeks 9-12]
 
 - Critical analyze ubiquity of digital technologies
 - Practical workshop in wearables
 
-### Week 10: Metainterface (16 March)
+### Week 9: Metainterface (9 March)
 
 #### **Readings**
 
 - Christian Ulrik Andersen and Soren Pold, Introduction from *The metainterface: the art of platforms, cities, and clouds*
 - Sofiya Noble, “Searching for Protections from Search Engines” from *Algorithms of Oppression*
+
+### Week 10: Reading Week
+
+No Class
 
 ### Week 11: Wearables (23 March)
 
