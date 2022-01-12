@@ -155,14 +155,6 @@ Magnavox Odyssey, first commercial home video game console
 
 ---
 
-## Agnes Hegedüs, *Fruit Machine*, 1991
-
-![bg contain](../images/hegedus_fruitmachine.gif)
-
-![bg contain](../images\hegedus_fruitmachine2.jpg)
-
----
-
 ## [Blast Theory, *Can You See Me Now?*, 2001 to Present]((https://www.blasttheory.co.uk/projects/can-you-see-me-now/))
 
 ![](../images/Blast-Theory_CYSMN.png)
