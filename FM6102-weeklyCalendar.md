@@ -87,7 +87,7 @@ Submit **proposal** for module final project to Blackboard by **18 February, 5 p
 - Optional: Marcos Dias, *The Machinic City*
 - View Blast Theory, selection of videos about works [https://www.blasttheory.co.uk/our-work/#Featured](https://www.blasttheory.co.uk/our-work/#Featured)
 
-**Assignment 2:** Due Friday 11 March by 5 pm
+### Assignment 2: Due Friday 11 March by 5 pm
 
 Take a digital object that you use on an everyday basis and develop a way to interact or perform with it differently. This may be presented as a speculative essay, performance to video, or working prototype. Include a short explaination of project, if necessary. No citations required.
 
