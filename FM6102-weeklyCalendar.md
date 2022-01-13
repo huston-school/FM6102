@@ -49,7 +49,7 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 - Jussi Parker,  Preface and Chapter 2, “An Alternative Deep Time of the Media” from *Geology of Media*
 - Kate Crawford, Introduction to *Atlas of AI*
 
-### Week 5: Blockchain and Cyrptocurrency (9 February)
+### Week 5: Blockchain and Cryptocurrency (9 February)
 
 #### **Readings**
 
