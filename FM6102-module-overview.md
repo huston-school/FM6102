@@ -43,8 +43,6 @@ This module aims to explore the landscape of current innovations in digital medi
 - Taylor, T. L. *Watch Me Play: Twitch and the Rise of Game Live Streaming.* Princeton University Press, 2018.
 - Wark, McKenzie. *Sensoria: Thinkers for the Twenty-First Century.* Verso, 2020.
 
-[Link to reading depo for digital copies of books not in library](https://nuigalwayie-my.sharepoint.com/:f:/r/personal/0123213s_nuigalway_ie/Documents/FM6102-Reading-Depo?csf=1&web=1&e=BdUdbp)
-
 ## Assessment
 
 - Assignment 1 (25%): defining play  
