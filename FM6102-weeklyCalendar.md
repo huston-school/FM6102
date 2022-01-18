@@ -23,7 +23,8 @@ Please read and review indicated materials prior to class session. Unless otherw
 - Sianne Ngai, pp. 1-14 from “Introduction,” *Our Aesthetic Categories: Zany, Cute, Interesting*,
 - Hito Steyerl, “A Sea of Data: Apophenia and Pattern (Mis-)Recognition,” from *Duty Free Art: Art in the Age of Planetary Civil War*
 - McKenzie Wark, “Yves Citton: Ecologies of Attention” from Sensoria
-- Watch: Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File* (2013), [https://www.moma.org/collection/works/181784](https://www.moma.org/collection/works/181784)
+- Watch: Hito Steyerl, *How Not to Be Seen: A Fucking Didactic Educational .MOV File* (2013), [https://www.youtube.com/watch?v=LE3RlrVEyuo](https://www.youtube.com/watch?v=LE3RlrVEyuo): change playback speed to 1.25
+
 
 ### Week 3: Creativity (26 January)
 
