@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create a short video or sound piece (3 to 5 minutes) or series of static images (at least 3) that explores notion of play in digital media, engaging with concepts presented in class. In conjunction, submit a 500 word paper where you identify definition of play used in your work and how it is implemented. Also discuss your intentions and rationale. Make sure to cite appropriately, referencing readings from class and additional sources.  
+Create a short video or sound piece (3 to 5 minutes) or series of static images (at least 3) that explores notion of play in digital media, engaging with concepts presented in class (**cite the relevant readings**). In conjunction, submit a 500 word paper where you identify definition of play used in your work and how it is implemented. Also discuss your intentions and rationale. Make sure to cite appropriately, referencing readings from class and additional sources.  
 
 Due: 28 January by 5 pm through appropriate links on Blackboard for project and paper  
 
