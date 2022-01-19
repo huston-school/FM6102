@@ -7,6 +7,7 @@
 ## Lectures
 
 * [Week One](lectures/FM6102-week1.md)
+* [Week Two](lectures/FM6102-week2.md)
 
 ## Assignments
 
