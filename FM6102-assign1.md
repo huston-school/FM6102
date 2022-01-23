@@ -6,6 +6,13 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 
 Due: 28 January by 5 pm through appropriate links on Blackboard for project and paper  
 
+## Suggested Essay Structure
+
+1. Introduction: introduce project and define how play functions in your creative practice. 
+2. Analysis: identify and analyse the ways this definition of play is present in your project, referring to specific points from the readings from weeks 1 to 3.
+3. Discussion: consider the significance of play in your practice. Has this project enabled you to think of ways you may be engaging with play, but not have realised? Has it invited you to try out different ways of involving play in your practice?
+4. Conclusion: reiterate definition of play and summarise key points
+
 ## Marking Rubric
 
 Section | Excellent (70+) | Very Good (60-69) | Satisfactory (50-59) | Pass (40-49)
