@@ -4,6 +4,8 @@
 
 Create a short video or sound piece (3 to 5 minutes) or series of static images (at least 3) that explores notion of play in digital media, engaging with concepts presented in class (**cite the relevant readings**). In conjunction, submit a 500 word paper where you identify definition of play used in your work and how it is implemented. Also discuss your intentions and rationale. Make sure to cite appropriately, referencing readings from class and additional sources.  
 
+The purpose of this assignment is for you to consider the role of play in your creative practice (broadly defined, so could inolve digital media production, writing, filmmaking, screenwriting, and so forth), connecting it to concepts that you find relevant presented through the readings. As a suggested approach to this assignment, review the readings from week 1 to 3. Do any of the definitions relating to play, aesthetics, attention, or creativity relate to your practice as a maker? Place attention on your process. Then, create a piece that presents this idea. For instance, does play enable you to brainstorm? Do you set rules for yourself? When making, is there a particular aesthetic category that relates to your work? When working creatively, do you work by bringing two seemingly different things together (which we cover this week)? Do you try to produce something at the limits of what you know or do you start with what is familiar and try to make it different?
+
 Due: 28 January by 5 pm through appropriate links on Blackboard for project and paper  
 
 ## Marking Rubric
