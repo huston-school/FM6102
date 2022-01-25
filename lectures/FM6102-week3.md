@@ -121,7 +121,9 @@ DuSautoy tried to replicate with a chaotic pendulum – replicate technique out 
 ---
 
 ## Hans Namuth, Jackson Pollock at work in his studio, 1950
+
 ![](../images/Namuth_PollockPaintingSeries.jpg)
+
 [Hans Namuth, *Jackson Pollock 51* (1951)
 ](https://youtu.be/atu4uVT7bV8?t=319)
 
@@ -133,7 +135,7 @@ DuSautoy tried to replicate with a chaotic pendulum – replicate technique out 
 
 ## Computer generated Rembrandt
 
-![width:900px](../images\AI_Rembrandt.jpg)
+![width:900px](../images/AI_Rembrandt.jpg)
 
 <!-- A Rembrandt created by a 3D printer based on 346 paintings
 Caused disgust in some people, including British art critic Jonathan Jones
