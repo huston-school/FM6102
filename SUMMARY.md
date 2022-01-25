@@ -8,7 +8,7 @@
 
 * [Week One](lectures/FM6102-week1.md)
 * [Week Two](lectures/FM6102-week2.md)
-
+* [Week Three](lectures/FM6102-week3.md)
 ## Assignments
 
 * [Assignment 1: Defining Play](FM6102-assign1.md)
