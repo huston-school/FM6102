@@ -96,6 +96,7 @@ For a machine to be deemed truly creative, its contribution has to be more than 
 ![bg right](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Turing_test_diagram.png/440px-Turing_test_diagram.png)
 
 <!-- Player A is a man, player B is a woman and player C (who plays the role of the interrogator) is of either sex. In the imitation game, player C is unable to see either player A or player B, and can communicate with them only through written notes. By asking questions of player A and player B, player C tries to determine which of the two is the man and which is the woman. Player A's role is to trick the interrogator into making the wrong decision, while player B attempts to assist the interrogator in making the right one. -->
+
 ---
 
 ## AlphaGo defeats Lee Sedol, world champion Go player
@@ -109,11 +110,56 @@ For a machine to be deemed truly creative, its contribution has to be more than 
 
 ---
 
+## What is AI?
+
+- Artificial intelligence, or technological intelligence that mimics human intelligence
+- Founded as academic discipline in 1956 (first wave cybernetics)
+- Current wave: machine learning and neural networks, impact of big data (mass scale data mining)
+    - 90% of world's data created in last five years; one exabyte of data is created on internet everyday
+    - In two days, humans produce same data it took us to create from dawn of civilization to 2003 (Du Sautoy 62)
+- [Neural Network in 5 minutes](https://youtu.be/bfmFfD2RIcg)
+
+---
+
+## Learning from Failure
+
+- “Try. Fail. Fail again. Fail better." (Samuel Beckett quoted in Du Sautoy 14)
+- "Unless you are prepared to fail, you will
+not take the risks that will allow you to break out and create something new. This is why our education
+system and our business environment, both realms that abhor failure, are terrible environments for fostering creativity" (Du Sautoy 14)
+
+---
+
+## Jackson Pollock, *Number 5,* 1948
+
+![bg left contain](../images/Pollock_No._5,_1948.jpg)
+
+- Richard Taylor: Pollock's paint arcs like chaotic pendulum
+- Creates fractals: zoom in on section, difficult to differentiate from whole
+- Abstract representations of nature
+
+<!-- 
+chaotic pendulum, which has a pivot that
+moves around instead of remaining fixed.
+
+It turns out that emulating Pollock’s approach isn’t
+quite so simple as one might think. Pollock moved around a lot as he dripped paint onto a canvas. At the best of times, working rapidly, he was off-balance. Often, he was drunk. The resulting images are visual representations of the movement of his body as he interacted with paint and canvas.
+Yet that doesn’t mean his technique can’t
+be simulated by a machine. -->
+
+---
+
 ## Jackson Pollock, *Mural*, 1943
 
 ![width:900px](https://www.artnews.com/wp-content/uploads/2020/05/6323912l-1.jpg)
 
-<!-- Tendency to treat Pollock’s paintings as insignificant, but not an easy process to emulate; not just flicks of paint but fractals
+<!-- 
+As you zoom in on a section, it
+becomes difficult to distinguish the zoomed-in section from the whole.
+Approaching the painting, you lose your sense of place in relation to
+the canvas and begin to mentally fall into the image.
+
+Tendency to treat Pollock’s paintings as insignificant, but not an easy process to emulate; not just flicks of paint but fractals
 DuSautoy tried to replicate with a chaotic pendulum – replicate technique out lacked the structure. 
 
 “This seems to be a fundamental limitation of many of the codes attempting to make art. They can capture detail at a local level but they lack the ability to piece these bits together into a canvas that is satisfying on a larger scale” (117) -->
@@ -126,10 +172,6 @@ DuSautoy tried to replicate with a chaotic pendulum – replicate technique out 
 
 [Hans Namuth, *Jackson Pollock 51* (1951)
 ](https://youtu.be/atu4uVT7bV8?t=319)
-
----
-
-![bg ](../images/Namuth_PollockPainting.jpg)
 
 ---
 
