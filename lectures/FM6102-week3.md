@@ -124,9 +124,7 @@ For a machine to be deemed truly creative, its contribution has to be more than 
 ## Learning from Failure
 
 - “Try. Fail. Fail again. Fail better." (Samuel Beckett quoted in Du Sautoy 14)
-- "Unless you are prepared to fail, you will
-not take the risks that will allow you to break out and create something new. This is why our education
-system and our business environment, both realms that abhor failure, are terrible environments for fostering creativity" (Du Sautoy 14)
+- "Unless you are prepared to fail, you will not take the risks that will allow you to break out and create something new. This is why our education system and our business environment, both realms that abhor failure, are terrible environments for fostering creativity" (Du Sautoy 14)
 
 ---
 
