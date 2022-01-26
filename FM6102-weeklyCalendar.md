@@ -58,6 +58,18 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 - Adam Greenfield, Chapter 4 "Cryptocurrency The computational guarantee of value" and Chapter 5 "Blockchain beyond Bitcoin A trellis for posthuman institutions" from *Radical Technologies: The Design of Everyday Life* (London and New York: Verso, 2017).
 - Rachel O’Dwyer, “Limited Edition: Producing Artificial Scarcity for Digital Art on the Blockchain and Its Implications for the Cultural Industries,” *Convergence: The International Journal of Research into New Media Technologies* 26, no. 4 (August 2020): 874–94, [https://doi.org/10.1177/1354856518795097](https://doi.org/10.1177/1354856518795097).
 
+**Guest Lecture (February 10):** Algorithms and Block Chain
+
+**10 February** Algorithms and Blockchain
+
+Guest Lecturer: [Helen Knowles](https://www.helenknowles.com/)  
+Location: Virtual  
+Time: 1 to 3 pm
+
+UK Artist Helen Knowles will be discussing a number of her works that critically and creatively engage with algoithms and blockchain, including [*The Trial of Superdebthunterbot*](https://www.helenknowles.com/index.php/work/the_trial_of_superdebthunterbot) and [*Trickle Down: A New Vertical Sovereignty*](https://www.helenknowles.com/index.php/work/trickle_down).
+
+Helen Knowles (b.1975) is an artist and curator of the Birth Rites Collection. She has a BA Hons from Glasgow School of Art and MFA Fine Art from Goldsmiths University. A former British Council, Young Creative Entrepreneur, she has curated and commissioned work for internationally renowned projects which include; Oxytocin in collaboration with Procreate Projects, 7 site specific installations across Guys Campus, 2019, BRC Bi-annual competition for New Work at Media CityUK, The Whitworth Art Gallery and Kings College in 2013/15/17, ‘Birth Rites’, Manchester Museum / Glasgow Science Centre, 2008, ‘Don’t Cross the line’, ‘Agitate’ and ‘Radio Halo’ 2000, a show of eleven site-specific installations at Jodrell Bank Science Centre and Arboretum. Knowles has secured grants from ACE, The Amateurs Trust, Awards for All and Millenium UnLtd amongst others.
+
 ---
 
 ## Section 3: Interaction and Mediation [Weeks 6-8]
@@ -74,6 +86,16 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 - Watch: Yara Travieso, *La Medea* (2017), available through Blackboard
 
 Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
+
+**Guest Lecture (17 February):** Digital Scenography  
+
+Guest lecturer: Néill O'ODwyer  
+Location: Virtual  
+Time: 1 to 3 pm  
+
+This lecture will consist of a presentation of theory and practice-based research. In relation to the theory element, Néill will present a few key, overarching themes from his recently published monograph entitled, *Digital Scenography* (Bloomsbury 2021). In the second half of the lecture Néill will present several past and current practice-based research projects, specifically in relation to the exploration of performance, dramaturgy and scenography in extended reality (XR), which includes virtual and augmented reality technologies. The presentation will include his current most cutting-edge work, pedagogical practices and plans for the future.
+
+Néill O’Dwyer is a Senior Postdoctoral Research Fellow based in the V-SENSE project, in the Department of Computer Science, at Trinity College Dublin (TCD). He is an adjunct lecturer and research fellow of the School of Creative Arts, where he teaches Performance and Technology. He is an awardee of the prestigious Irish Research Council (IRC) Government of Ireland Research Fellowship (2017 – 2019). He is the sole author of *Digital Scenography: 30 years of experimentation and innovation in performance and interactive media* (2021) and a co-editor of *The Performing Subject in the Space of Technology: Through the Virtual, Towards the Real* (2015). He is an adjunct research fellow of the Graduate School of Creative Arts and Media (GradCAM), at the Technological University of Dublin (TU Dublin), and worked under Bernard Stiegler at the Institute of Research and Innovation (IRI), at the Pompidou Centre, Paris. Néill specialises in practice-based research in the field of scenography and design-led performance with a specific focus on digital media, computer vision, human–computer interaction, prosthesis, symbiosis, agency, performativity and the impact of technology on artistic processe
 
 ### Week 7: Livestreaming (23 February)
 
