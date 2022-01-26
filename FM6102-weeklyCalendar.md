@@ -28,8 +28,9 @@ Please read and review indicated materials prior to class session. Unless otherw
 
 ### Week 3: Creativity (26 January)
 
-- Marcus Du Sautoy, Chapter 1 “The Lovelace Test,” Chapter 2 “Three Types of Creativity,” and Chapter 8 “Learning from the Masters” from The Creativity Code
+- Marcus Du Sautoy, Chapter 1 “The Lovelace Test,” Chapter 2 “Three Types of Creativity,” and Chapter 8 “Learning from the Masters” from *The Creativity Code*
 - Oli Mould, Introduction “What is Creativity?” and Chapter 2 “Technology: Algorithmic Creativity” from *Against Creativity*
+- Suggested video: [The Creativity Code with Marcus du Sautoy](https://www.youtube.com/watch?v=Fkh9VRXcloM)
 
 ### **Assignment #1:** Due Friday 28 January by 5 pm
 
