@@ -51,6 +51,11 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 - Jussi Parker,  Preface and Chapter 2, “An Alternative Deep Time of the Media” from *Geology of Media*
 - Kate Crawford, Introduction to *Atlas of AI*
 
+#### **Optional Podcasts**
+
+- The Digital Human, ["Sublime"](https://www.bbc.co.uk/programmes/b07x2s20)
+- James Bridle, *New Ways of Seeing,* ["Invisible Networks"](https://www.bbc.co.uk/programmes/m000458l)
+
 ### Week 5: Blockchain and Cryptocurrency (9 February)
 
 #### **Readings**
