@@ -210,3 +210,14 @@ Sean Cubitt: “the digital realm is an avant-garde to the extent that it is dri
 - See Benjamin Gaulon [Recyclism](http://www.recyclism.com/all.html)
 
 ![bg opacity:0.35](../images/Recyclism_KindleGlitched.png)
+
+--- 
+
+## What are the fossils of the future?
+
+Group activity: 20 minutes
+
+- Break into groups of 2 to 3 people
+- Select reporter (someone to take notes and present on your groups ideas back to class)
+- Prompt: geologists/archaeologists 500 years in the future are sifting through core samples and artefacts from our current time: who are they? What do they find?
+- Form: consider how story can be presented (ie. Sci-fi film, documentary, animation, video game, VR, installations, sound piece, locative media). Select at least two different types of presentation and brainstorm on how it can be presented.
