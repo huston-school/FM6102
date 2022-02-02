@@ -63,6 +63,10 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 - Adam Greenfield, Chapter 4 "Cryptocurrency The computational guarantee of value" and Chapter 5 "Blockchain beyond Bitcoin A trellis for posthuman institutions" from *Radical Technologies: The Design of Everyday Life* (London and New York: Verso, 2017).
 - Rachel O’Dwyer, “Limited Edition: Producing Artificial Scarcity for Digital Art on the Blockchain and Its Implications for the Cultural Industries,” *Convergence: The International Journal of Research into New Media Technologies* 26, no. 4 (August 2020): 874–94, [https://doi.org/10.1177/1354856518795097](https://doi.org/10.1177/1354856518795097).
 
+#### **Video**
+
+- Folding Ideas, [*The Line Goes Up - The Problem with NFTS*](https://youtu.be/YQ_xWvX1n9g)
+
 **Guest Lecture (February 10):** Algorithms and Block Chain
 
 **10 February** Algorithms and Blockchain
