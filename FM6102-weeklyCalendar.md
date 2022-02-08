@@ -72,8 +72,10 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 **10 February** Algorithms and Blockchain
 
 Guest Lecturer: [Helen Knowles](https://www.helenknowles.com/)  
-Location: Virtual  
-Time: 1 to 3 pm
+Time: 1 to 3 pm  
+Location: Virtual (also being streamed in IT303)  
+[https://nuigalway-ie.zoom.us/j/98238589855](https://nuigalway-ie.zoom.us/j/98238589855)  
+
 
 UK Artist Helen Knowles will be discussing a number of her works that critically and creatively engage with algoithms and blockchain, including [*The Trial of Superdebthunterbot*](https://www.helenknowles.com/index.php/work/the_trial_of_superdebthunterbot) and [*Trickle Down: A New Vertical Sovereignty*](https://www.helenknowles.com/index.php/work/trickle_down).
 
