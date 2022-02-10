@@ -25,7 +25,7 @@ a {
 
 ![DM6104 Banner](../images/FM6102Banner2.jpg)
 
-# Week 5: Blockchain and Crytocurrency
+# Week 5: Blockchain and Cryptocurrency
 
 FM6102: Digital Play and Practice  
 Dr. EL Putnam
@@ -133,6 +133,8 @@ Adam Greenfield. Radical Technologies: The Design of Everyday Life (Kindle Locat
 
 [Sotheby's Auction Listing](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum)
 
+[Seven on Seven 2014: Anil Desh and Kevin McCoy](https://vimeo.com/96131398)
+
 <!-- "Natively Digital: A Curated NFT Sale" will run from June 3-10. It features work by 27 digital artists, including "Quantum" by Kevin McCoy, a simple geometric animation which Sotheby's says is the first known NFT, created in May 2014.
 
 At a hackathon in 2014, digital artist Kevin McCoy and tech entrepreneur Anil Dash invented Non-Fungible Tokens (NFTs).
@@ -162,6 +164,9 @@ The first NFT ever minted is a pixelated octagon that changes colour like a frig
 - Store in digital wallet
 - Proof of work vs. proof of stake
 - [Irish artist John Gerrard on NFTs](https://youtu.be/pkIaFp2u5Kg)
+    - [https://sim.stream/notes](https://sim.stream/notes)
+    - [John Gerrard on The Vov](https://www.thevov.art/on-demand/tvu-johngerrard) (notes for this talk no longer available online)
+    
 
 <!-- 
 In economics, a fungible asset is something with units that can be readily interchanged - like money.
