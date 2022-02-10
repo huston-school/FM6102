@@ -73,8 +73,10 @@ Create a short video or sound piece (3 to 5 minutes) or series of static images 
 
 Guest Lecturer: [Helen Knowles](https://www.helenknowles.com/)  
 Time: 1 to 3 pm  
-Location: Virtual (also being streamed in IT303)  
-[https://nuigalway-ie.zoom.us/j/98238589855](https://nuigalway-ie.zoom.us/j/98238589855)  
+Link to recording of lecture: [https://nuigalway-ie.zoom.us/rec/share/vI_41YOAaty3_stZafm3FdEIu40G3cyAWL2f9XD1uYlS8KiBMy4vEKvifQZui9Pl.1uZcViby29nZrP2c?startTime=1644499498000](https://nuigalway-ie.zoom.us/rec/share/vI_41YOAaty3_stZafm3FdEIu40G3cyAWL2f9XD1uYlS8KiBMy4vEKvifQZui9Pl.1uZcViby29nZrP2c?startTime=1644499498000)  
+Passcode: 9ySUW!x@  
+
+Please note that this recording will only be accessible for 3 weeks. It will be removed 3 March 2022.  
 
 
 UK Artist Helen Knowles will be discussing a number of her works that critically and creatively engage with algoithms and blockchain, including [*The Trial of Superdebthunterbot*](https://www.helenknowles.com/index.php/work/the_trial_of_superdebthunterbot) and [*Trickle Down: A New Vertical Sovereignty*](https://www.helenknowles.com/index.php/work/trickle_down).
