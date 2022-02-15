@@ -50,7 +50,7 @@ Due Friday 28 January by 5 pm
 - Assignment 2 (25%): everyday use  
 Due Friday 11 March by 5 pm  
 - Assignment 3 (50%): module final project  
-    - Initial proposal due 18 February by 5 pm
+    - Initial proposal due 25 February by 5 pm
     - In class presentations 30 March
     - Paper and project due Friday 29 April by 5 pm
 

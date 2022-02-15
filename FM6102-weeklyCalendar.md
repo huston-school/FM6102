@@ -98,7 +98,7 @@ Helen Knowles (b.1975) is an artist and curator of the Birth Rites Collection. S
 - Neill O'Dwyer, Introduction to *Digital Scenography: 30 Years of Experimentation and Innovation in Performance and Interactive Media* 
 - Watch: Yara Travieso, *La Medea* (2017), available through Blackboard
 
-Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
+
 
 **Guest Lecture (17 February):** Digital Scenography  
 
@@ -117,6 +117,8 @@ Néill O’Dwyer is a Senior Postdoctoral Research Fellow based in the V-SENSE p
 - T.L. Taylor, Chapter 3, “Home Studios: Transforming Private Play into Public Entertainment“ from *Watch me Play: Twitch and the Rise of Game Live Streaming*
 - Hunter, Lindsay Brandon. “Live Streaming and the Perils of Proximity.” *International Journal of Performance Arts and Digital Media* 15.3 (2019): 283-94.
 - Listen to The Digital Human, “Jennifer,” [https://www.bbc.co.uk/programmes/b07z414z](https://www.bbc.co.uk/programmes/b07z414z)
+
+Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
 
 ### Week 8: Locative Media (2 March)
 
@@ -165,4 +167,4 @@ You will develop a multimodal, digital work (examples: video essay, augmented re
 
 In addition to the project, you will submit an academic essay (2000 words) contextualising your project in the broader field of digital production, including examples of other relevant works and relevant scholarship cited appropriately using MLA. You are required to give a five minute presentation in the last week of class on your project.
 
-**Deliverables:** Proposal (due 18 February), in class presentation (30 March), project and 2000 word essay (29 April).
+**Deliverables:** Proposal (due 25 February), in class presentation (30 March), project and 2000 word essay (29 April).
