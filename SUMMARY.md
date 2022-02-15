@@ -15,3 +15,5 @@
 ## Assignments
 
 * [Assignment 1: Defining Play](FM6102-assign1.md)
+* [Assignment 2: Everyday Use](FM6102-assign2.md)
+* [Assignment 3: Multimodal Project](FM6102-assign3.md)
