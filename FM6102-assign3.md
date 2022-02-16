@@ -16,7 +16,9 @@ In addition to the project, you will submit an academic essay (2000 words) conte
 The exact deliverable of your project is up to you. Since medium may vary, there are no prescribed guides on length or quantity, though it is asked that video and audio submissions do not exceed 10 minutes.
 Note that your project can involve multiple parts, such as various images, sound recordings, videos, and so forth. If submitting such a project, please submit in a way that is easily navigable, such as a pdf document, website, or other form that guides delivery.
 
-You may include the work of others as part of the project, but credit must be given for all contributions and these should be minor. Payment for work on project is not allowed.
+You may include the work of others as part of the project, but credit must be given for all contributions and these should be minor. Payment for work on project is not allowed. 
+
+**You are welcome to collaborate with someone else in the module to create a project jointly.** Even though a single project can be submitted, each person will have to individually research and write an academic paper, within which details on contributions to project are presented along with other required criteria
 
 ### Proposal due Friday 25 February
 
