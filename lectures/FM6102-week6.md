@@ -42,6 +42,10 @@ You will develop a multimodal, digital work (examples: video essay, augmented re
 
 ---
 
+## What is performance?
+
+---
+
 ## What is Digital Performance?
 
 Defined as “all performance works where computer technology play a key  rather than subsidiary one in content, techniques, aesthetics, or delivery form” (Dixon 3) 
@@ -82,6 +86,38 @@ Emphasis on the embodied and material, btu also action: HOW things are used
 
 <!-- Spanning a wide range of seemingly disconnected disciplines, what is at stake in all of these accounts is how performance as a mode of being in the world radically differs from representational forms of knowledge. In general, representation assumes a split between the representation, whether an image on the canvas or in the brain, a description in text or a line of code, and a thing or world to be represented—a referent.
  -->
+
+---
+
+## Digital Scenography
+
+- "Expanded" understandng of scenography: not just stage sets 
+    - audio-visual, participatory, site-specific, design-led approaches to performance practice
+    - "Scenography is not something simply observed by audiences; it is an environment, a world to be experienced, engaged and encountered kinaesthetically, physically and viscerally" (O'Dwyer 11).
+- Second scenographic turn enabled through digital technologies
+- Using digital technologies to re-define stage and enhance audience experience
+- Two major Events: invention of microchip (1940s) and roll out of the Internet (1990s)
+- Digital materials inspire new actions
+
+<!-- Following the mass availability of digital hardware and software, every
+epistemic field has experienced a reorganizational shift in how it operates. The
+broad flexibility and applicability of digital technologies to every knowledge
+area have created new opportunities, as well as closures – excitement and
+worry.
+
+Many pioneers in using digital tech in scenography have been supported by Media art resaerch centers, such as ZKM and IRCAM -->
+
+---
+
+## Artistic Innovation and Scientific Exploration
+
+Each artwork demonstrates the pivotal role that artistic innovation plays in opening big research questions and influencing the direction of scientific exploration. They expose a scenario in which the creative human can invent new types of identity, formulate new systems of intersubjectivity and dream new futures (O'Dwyer 16-7).
+
+---
+
+## Laurie Anderson, [Norton Lectures](https://youtube.com/playlist?list=PLtxVM47qfVNCAPdgEesjlfIQX6rptwXDp), Harvard University (2021-22)
+
+![](../images/Anderson.jpeg)
 
 ---
 
