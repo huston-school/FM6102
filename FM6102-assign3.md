@@ -18,6 +18,10 @@ Note that your project can involve multiple parts, such as various images, sound
 
 You may include the work of others as part of the project, but credit must be given for all contributions and these should be minor. Payment for work on project is not allowed.
 
+### Proposal due Friday 25 February
+
+150 to 250 word description of proposed project media and concepts to be explored. List of 3 relevant examples and 5 academic references.
+
 ## Marking Rubric
 
 Section | Excellent (70+) | Very Good (60-69) | Satisfactory (50-59) | Pass (40-49)
