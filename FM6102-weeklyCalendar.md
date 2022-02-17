@@ -117,7 +117,7 @@ Néill O’Dwyer is a Senior Postdoctoral Research Fellow based in the V-SENSE p
 - Hunter, Lindsay Brandon. “Live Streaming and the Perils of Proximity.” *International Journal of Performance Arts and Digital Media* 15.3 (2019): 283-94.
 - Listen to The Digital Human, “Jennifer,” [https://www.bbc.co.uk/programmes/b07z414z](https://www.bbc.co.uk/programmes/b07z414z)
 
-Submit **proposal** for module final project to Blackboard by **18 February, 5 pm.**
+Submit **proposal** for module final project to Blackboard by **25 February, 5 pm.**
 
 ### Week 8: Locative Media (2 March)
 
