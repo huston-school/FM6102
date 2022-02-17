@@ -6,7 +6,6 @@ Please read and review indicated materials prior to class session. Unless otherw
 
 - Critical analysis of play, aesthetics, creativity
 - Reflect on concepts within own practice
-- Creative techniques in Adobe Creative Cloud
 
 ### Week 1: Play (12 January)
 
