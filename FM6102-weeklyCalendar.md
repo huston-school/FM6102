@@ -97,15 +97,14 @@ Helen Knowles (b.1975) is an artist and curator of the Birth Rites Collection. S
 - Neill O'Dwyer, Introduction to *Digital Scenography: 30 Years of Experimentation and Innovation in Performance and Interactive Media* 
 - Watch: Yara Travieso, *La Medea* (2017), available through Blackboard
 
-
-
 **Guest Lecture (17 February):** Digital Scenography  
 
 Guest lecturer: Néill O'ODwyer  
 Location: Virtual  
 Time: 1 to 3 pm  
 
-[https://nuigalway-ie.zoom.us/j/95920117741](https://nuigalway-ie.zoom.us/j/95920117741)  
+[Link to recording of talk](https://nuigalway-ie.zoom.us/rec/share/QscTJpJthxd-eQLdJcjA8W1DvJc7e7-_JM0_WfkrOhbxpchQa99UwSOq8bC9QFB8.ArySV2NZNLKbvtjZ
+)
 
 This lecture will consist of a presentation of theory and practice-based research. In relation to the theory element, Néill will present a few key, overarching themes from his recently published monograph entitled, *Digital Scenography* (Bloomsbury 2021). In the second half of the lecture Néill will present several past and current practice-based research projects, specifically in relation to the exploration of performance, dramaturgy and scenography in extended reality (XR), which includes virtual and augmented reality technologies. The presentation will include his current most cutting-edge work, pedagogical practices and plans for the future.
 
