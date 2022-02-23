@@ -70,7 +70,7 @@ connecting in real time with others, navigating a space of communication and per
 - Home broadcast studio:inviting the public into a private space
 - Ana Voog, [Anacam (Archived version)](https://www.anavoog.com/anacam.com/index.html)
     - [Time lapse video](https://vimeo.com/58485273)
-- On camera and behind the scenes work: managing chats, running ads, engaging with viewers, working with moderators -- "labor of producing one's pay for spectatorship" (Taylor 69).
+- On camera and behind the scenes work: managing chats, running ads, engaging with viewers, working with moderators -- "labor of producing one's play for spectatorship" (Taylor 69).
     - traditional media production involved division of labour, but home studios require agility to take on multiple roles
 - Crafting a professional identity: emotional labour
 - "Live streaming, particularly when undertaken with professional aspirations, becomes the work of play" (Taylor 69)
