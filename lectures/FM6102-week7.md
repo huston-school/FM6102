@@ -97,3 +97,10 @@ connecting in real time with others, navigating a space of communication and per
 - Hunter challenges privileging of proximity: important to acknowledge what is unavailable
 - Different types of engagement: flow or discordant
 - New means of affective engagement: ["Zoom fatigue"](https://tmb.apaopen.org/pub/nonverbal-overload/release/2) and ["Zoom bomb"](https://academic.oup.com/ccc/article/14/2/356/6224211?login=true)
+
+---
+
+## Tools for livestreaming
+
+- [OBS Website](https://obsproject.com/)
+- [Droid Cam](https://droidcam.en.softonic.com/?) can be used to turn an Android phone into a wireless webcam
