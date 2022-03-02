@@ -252,4 +252,4 @@ The project consists of a Water wARs Pavilion for undocumented artists/squatters
 - [Echoes](https://echoes.xyz/): Sound mapping
 - [Adobe Aero](https://www.adobe.com/products/aero.html)
 - [ARCore](https://developers.google.com/ar)
-
+- [SparkAR](https://sparkar.facebook.com/ar-studio)
