@@ -13,6 +13,7 @@
 * [Week Five](lectures/FM6102-week5.md)
 * [Week Six](lectures/FM6102-week6.md)
 * [Week Seven](lectures/FM6102-week7.md)
+* [Week Eight](lectures/FM6102-week8.md)
 
 ## Assignments
 
