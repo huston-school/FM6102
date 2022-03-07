@@ -4,6 +4,8 @@
 
 Take a digital object that you use on an everyday basis and develop a way to interact or perform with it differently. This may be presented as a speculative essay, performance to video, or working prototype. Include a short explanation of project, if necessary. **No citations required.**
 
+Due Friday 11 March by 5 pm
+
 ## Marking Rubric
 
 Section | Excellent (70+) | Very Good (60-69) | Satisfactory (50-59) | Pass (40-49)
