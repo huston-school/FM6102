@@ -133,7 +133,7 @@ Humans act more like machines, becoming a programmed actor
 - 1890s: Invention of cinema
 - 1950s and 60s: experiments in cinematic immersion, including Morton Heilig's "sensorama" and Disney's "Circle Vision 360"
 
-![bg right](https://blogs.lib.unc.edu/ncm/wp-content/uploads/sites/6/2013/10/Stereoscope_003-291x300.jpg)
+![bg right](../images/Stereoscope.png)
 
 <!--  Sensorama in 1962 and created five short films which engaged multiple senses (sight, sound, smell, and touch)
 
