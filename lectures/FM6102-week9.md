@@ -169,3 +169,7 @@ Google launched Google Cardboard, a simple and inexpensive VR headset which only
 - [NUIG MakerSpace](https://nuigalway.libcal.com/reserve/equipment/MakerSpace)
 
 ![bg right](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TiltBrush_Hero.max-1000x1000.png)
+
+## Example
+
+- [Absurdist Electronics on DAHJ](https://dahj.org/galleries#/absurdist-electronics/)
