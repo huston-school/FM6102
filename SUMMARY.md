@@ -6,15 +6,16 @@
 
 ## Lectures
 
-* [Week One](lectures/FM6102-week1.md)
-* [Week Two](lectures/FM6102-week2.md)
-* [Week Three](lectures/FM6102-week3.md)
-* [Week Four](lectures/FM6102-week4.md)
-* [Week Five](lectures/FM6102-week5.md)
-* [Week Six](lectures/FM6102-week6.md)
-* [Week Seven](lectures/FM6102-week7.md)
-* [Week Eight](lectures/FM6102-week8.md)
-* [Week Nine](lectures/FM6102-week9.md)
+* [Week 1: Play](lectures/FM6102-week1.md)
+* [Week 2: Aesthetics](lectures/FM6102-week2.md)
+* [Week 3: Creativity](lectures/FM6102-week3.md)
+* [Week 4: Geologies](lectures/FM6102-week4.md)
+* [Week 5: Blockchain](lectures/FM6102-week5.md)
+* [Week 6: Performance](lectures/FM6102-week6.md)
+* [Week 7: Livestreaming](lectures/FM6102-week7.md)
+* [Week 8: Locative Media](lectures/FM6102-week8.md)
+* [Week 9: Meta](lectures/FM6102-week9.md)
+* [Week 11: Wearables](lectures/FM6102-week11.md)
 
 ## Assignments
 
