@@ -41,6 +41,8 @@ There is no prescribed format for the content of the presentation.  Use this it
 
 The purpose of this presentation is to help you further develop your ideas, support you in outlining for the written essay component of the project, and to get some feedback on your project at this stage. Think of it as a chance. Remember, the presentation is marked pass/fail, so it is a useful opportunity to give your ideas a test run and to get some in-process feedback from the class before you complete your project and paper.  
 
+Make sure to upload slidedeck to Blackboard after completing presentation on 30 March by 5 pm.
+
 ### Academic Essay
 
 In addition to the project, you are submitting a 2000-word academic essay that relates to the content of your project and the themes presented in the module.
