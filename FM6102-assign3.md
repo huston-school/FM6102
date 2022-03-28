@@ -36,11 +36,15 @@ In addition to the project, you are submitting a 2000-word academic essay that r
 
 #### Suggested Format
 
-- Introduction: present overview of concepts presented in essay with a clear argument (125 words)
-- State of the art: discuss the type of media you are engaging with, including description of media with reference to relevant examples (at least 2) and academic sources (from module reading list and own research). Use relevant concepts from class to direct your discussion (ie. play, aesthetics, creativity, media geologies, materiality, interactivity, performance, ubiquity). You may select one or several concepts, but use discretion and ensure relevance through the articulation of a cohesive arugment (1000 words).
+- Introduction: present overview of concepts presented in essay with a clear [thesis statement](https://libguides.library.nuigalway.ie/research-skills/research-question) (125 words)
+- State of the art: discuss the type of media you are engaging with, including description of media with reference to three relevant examples and [scholarly sources](https://libguides.library.nuigalway.ie/research-skills/types-of-sources) (from module reading list and own research; at least 5). Use relevant concepts from class to direct your discussion (ie. play, aesthetics, creativity, media geologies, materiality, interactivity, performance, ubiquity). You may select one or several concepts, but use discretion and ensure relevance through the articulation of a cohesive argument (750 words).
 - Method: Present overview of practice-based research and method of production. Note that this is not a journal, but involves reflexive engagement with the process. When pertinent, relate to relevant theories identified in the state of the art section (500 words)
 - Discussion/Analysis: Review findings from research. How does the project relate to concepts and ideas from class that you have identified in the state of the art? How does it build upon or respond to existing research? How do you relate it the examples you presented? (500 words)
 - Conclusion: Summarise findings and discuss potential future avenues for research and/or other applications (125 words)
+
+Essay must be cited in [MLA and include a works cited list](https://libguides.library.nuigalway.ie/research-skills/citingandreferencing)
+
+Total word count: 2000 words
 
 ## Marking Rubric
 
