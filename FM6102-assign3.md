@@ -22,7 +22,25 @@ You may include the work of others as part of the project, but credit must be gi
 
 ### Proposal due Friday 25 February
 
-150 to 250 word description of proposed project media and concepts to be explored. List of 3 relevant examples and 5 academic references.
+150 to 250 word description of proposed project media and concepts to be explored. List of 3 relevant examples and 5 academic references. Marked pass/fail.
+
+### Presentation
+
+ On March 30, you will each be presenting a short presentation on your project. These will take the form of a [Pecha Kucha](https://www.pechakucha.com/about), where you will each present 20 slides for 20 seconds each for 6 minutes and 40 seconds total. It is suggested that you prepare slides in Powerpoint or Keynote with automatic timing enabled. This will support you in sticking to the format more effectively. Here are some [tips on preparation](https://wiki.rice.edu/confluence/display/DMCGUIDES/Creating+a+Pecha+Kucha+Presentation+Using+PowerPoint)
+
+There is no prescribed format for the content of the presentation. Use this it to present what you have at this stage including your ideas for the project, your influences, relevant theories and concepts from the module, and how you hope to present the final output. The purpose of this presentation is to help you further develop your ideas, support you in outlining for the written essay component of the project, and to get some feedback on your project at this stage. Marked pass/fail.
+
+### Academic Essay
+
+In addition to the project, you are submitting a 2000-word academic essay that relates to the content of your project and the themes presented in the module.
+
+#### Suggested Format
+
+- Introduction: present overview of concepts presented in essay with a clear argument (125 words)
+- State of the art: discuss the type of media you are engaging with, including description of media with reference to relevant examples (at least 2) and academic sources (from module reading list and own research). Use relevant concepts from class to direct your discussion (ie. play, aesthetics, creativity, media geologies, materiality, interactivity, performance, ubiquity). You may select one or several concepts, but use discretion and ensure relevance through the articulation of a cohesive arugment (1000 words).
+- Method: Present overview of practice-based research and method of production. Note that this is not a journal, but involves reflexive engagement with the process. When pertinent, relate to relevant theories identified in the state of the art section (500 words)
+- Discussion/Analysis: Review findings from research. How does the project relate to concepts and ideas from class that you have identified in the state of the art? How does it build upon or respond to existing research? How do you relate it the examples you presented? (500 words)
+- Conclusion: Summarise findings and discuss potential future avenues for research and/or other applications (125 words)
 
 ## Marking Rubric
 
