@@ -26,9 +26,20 @@ You may include the work of others as part of the project, but credit must be gi
 
 ### Presentation
 
- On March 30, you will each be presenting a short presentation on your project. These will take the form of a [Pecha Kucha](https://www.pechakucha.com/about), where you will each present 20 slides for 20 seconds each for 6 minutes and 40 seconds total. It is suggested that you prepare slides in Powerpoint or Keynote with automatic timing enabled. This will support you in sticking to the format more effectively. Here are some [tips on preparation](https://wiki.rice.edu/confluence/display/DMCGUIDES/Creating+a+Pecha+Kucha+Presentation+Using+PowerPoint)
+On March 30, you will each be presenting a short presentation on your project. These will take the form of a [Pecha Kucha](https://www.pechakucha.com/about), where you will each present 20 slides for 20 seconds each for 6 minutes and 40 seconds total. It is suggested that you prepare slides in Powerpoint or Keynote with automatic timing enabled. This will support you in sticking to the format more effectively. Here are some [tips on preparation](https://wiki.rice.edu/confluence/display/DMCGUIDES/Creating+a+Pecha+Kucha+Presentation+Using+PowerPoint)
 
-There is no prescribed format for the content of the presentation. Use this it to present what you have at this stage including your ideas for the project, your influences, relevant theories and concepts from the module, and how you hope to present the final output. The purpose of this presentation is to help you further develop your ideas, support you in outlining for the written essay component of the project, and to get some feedback on your project at this stage. Marked pass/fail.
+There is no prescribed format for the content of the presentation. Use this it to present what you have at this stage including:
+
+There is no prescribed format for the content of the presentation.  Use this it to present what you have at this stage including:
+
+- your ideas for the project
+- your influences and examples of existing works
+- relevant theories and concepts from the module
+- any content you may have at this stage (this will vary depending on what stage you are at with the project)
+- how you hope to present the final output, which can include descriptions, mock ups, or possibilities
+- identify any specific areas that you want feedback on at this stage
+
+The purpose of this presentation is to help you further develop your ideas, support you in outlining for the written essay component of the project, and to get some feedback on your project at this stage. Think of it as a chance. Remember, the presentation is marked pass/fail, so it is a useful opportunity to give your ideas a test run and to get some in-process feedback from the class before you complete your project and paper.  
 
 ### Academic Essay
 
